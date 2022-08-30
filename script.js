@@ -41,3 +41,4 @@ function copyPassword(){
     alert('senha copiada com sucesso!')
     navigator.clipboard.writeText(novaSenha);
 }
+//oS5uzmFKy8T0Xaa
