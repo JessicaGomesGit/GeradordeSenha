@@ -109,6 +109,6 @@ body{
 
    .container-password:hover .tooltip{
     visibility: visible;
-    opacity: 2;
+    opacity: 1;
     bottom: 50px;
    }
